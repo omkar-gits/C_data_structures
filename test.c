@@ -2,7 +2,7 @@
 //will be using this file as a main test file
 //Dedicate directories will be made for specific data structures
 int main(){
-    int a = 65;
+    int a = 95;
 	int *ptr = &a;
 	int **ptr2 = &ptr;
 	int ***ptr3 = &ptr2;
