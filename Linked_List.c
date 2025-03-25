@@ -8,6 +8,6 @@ struct node
 };
 
 int main(){
-    node *A;    
-    A = NULL;
+    //node *A;    
+    //A = NULL;
 }
