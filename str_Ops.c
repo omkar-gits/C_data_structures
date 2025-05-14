@@ -34,7 +34,7 @@ char temp_1[1024], temp_2[1024];
 
 int main(){
 	//just basic printing out the default values
-	printf("this is char at char array index %c \n",ch_arr[0]);
+	printf("this is char at char array index 0 %c \n",ch_arr[0]);
 	printf("this is String %s \n", ch_str);
 	//printing out using memory address
 	printf("this is value at a memory location %c \n", *ch_str);
@@ -66,5 +66,8 @@ int main(){
 		printf("then %s > %s \n",temp_1 , temp_2);
 	}
 	
+	//String Tokenisation
+	//
+
 	return 0;
 }
